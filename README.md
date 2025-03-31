@@ -8,6 +8,9 @@
 ### ParrelSync
 https://github.com/VeriorPies/ParrelSync
 
+### 구현
+[PlayerNetwork.cs](Assets/_MaJunseob/Scripts/PlayerNetwork.cs)
+
 ### 유튜브 참고 자료의 문제점 및 해결법
 NetworkAnimator 챕터에서 Client 캐릭터가 움직이지 않는다.  
 플레이어 캐릭터 프리팹의 PlayerInput 컴포넌트를 끄고 아래의 코드를 추가한다.
