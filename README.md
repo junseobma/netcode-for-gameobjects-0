@@ -34,7 +34,7 @@ public class OwnerNetworkAnimator : NetworkAnimator
 }
 
 
-###[Create a game with a listen server and host architecture](https://docs-multiplayer.unity3d.com/netcode/current/learn/listen-server-host-architecture/)
+[###Create a game with a listen server and host architecture](https://docs-multiplayer.unity3d.com/netcode/current/learn/listen-server-host-architecture/)
 
 
 
