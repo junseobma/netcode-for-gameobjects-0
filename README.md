@@ -34,24 +34,18 @@ public class OwnerNetworkAnimator : NetworkAnimator
 }
 
 
-[Create a game with a listen server and host architecture](https://docs-multiplayer.unity3d.com/netcode/current/learn/listen-server-host-architecture/)
+###[Create a game with a listen server and host architecture](https://docs-multiplayer.unity3d.com/netcode/current/learn/listen-server-host-architecture/)
 
 
 
 다음으로 학습할 내용：
-Making a MULTIPLAYER Game? Join your Players with LOBBY!
-https://www.youtube.com/watch?v=-KDlEBfCBiU
+Unity Code Monkey
+[Making a MULTIPLAYER Game? Join your Players with LOBBY!](https://www.youtube.com/watch?v=-KDlEBfCBiU)
+[How to use Unity Relay, Multiplayer through FIREWALL! (Unity Gaming Services)](https://www.youtube.com/watch?v=msPNJ2cxWfw)
+[How to make Simple Multiplayer Game! (FREE Course Unity Tutorial Netcode for Game Objects)](https://www.youtube.com/watch?v=YmUnXsOp_t0)
+[Learn Netcode for Entities (FREE Course, SUPER FAST Multiplayer with Unity DOTS)](https://www.youtube.com/watch?v=-3EVvJ8kr1U)
 
-How to use Unity Relay, Multiplayer through FIREWALL! (Unity Gaming Services)
-https://www.youtube.com/watch?v=msPNJ2cxWfw
-
-How to make Simple Multiplayer Game! (FREE Course Unity Tutorial Netcode for Game Objects)
-https://www.youtube.com/watch?v=YmUnXsOp_t0
-
-Learn Netcode for Entities (FREE Course, SUPER FAST Multiplayer with Unity DOTS)
-https://www.youtube.com/watch?v=-3EVvJ8kr1U
-
-https://unity.com/products/netcode
+[Build multiplayer games with Unity Netcode](https://unity.com/products/netcode)
 
 Educational samples: Boss Room
 https://unity.com/demos/small-scale-coop-sample
