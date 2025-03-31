@@ -22,7 +22,7 @@ void Start()
 }
 
 
-https://docs-multiplayer.unity3d.com/netcode/current/components/networkanimator/#owner-authoritative-mode
+｢Owner authoritative mode｣（https://docs-multiplayer.unity3d.com/netcode/current/components/networkanimator/#owner-authoritative-mode）
 
 using Unity.Netcode.Components;
 public class OwnerNetworkAnimator : NetworkAnimator
@@ -34,7 +34,7 @@ public class OwnerNetworkAnimator : NetworkAnimator
 }
 
 
-[###Create a game with a listen server and host architecture](https://docs-multiplayer.unity3d.com/netcode/current/learn/listen-server-host-architecture/)
+[Create a game with a listen server and host architecture](https://docs-multiplayer.unity3d.com/netcode/current/learn/listen-server-host-architecture/)
 
 
 
