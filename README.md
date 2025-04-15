@@ -1,7 +1,7 @@
 # Netcode for GameObjects
 
 ### 참고 자료
-- [***COMPLETE Unity Multiplayer Tutorial (Netcode for Game Objects)***](https://www.youtube.com/watch?v=3yuBOB3VrCk)  
+- [COMPLETE Unity Multiplayer Tutorial (Netcode for Game Objects)](https://www.youtube.com/watch?v=3yuBOB3VrCk)  
 - [Install Netcode for GameObjects](https://docs-multiplayer.unity3d.com/netcode/current/installation/)  
 - [Build multiplayer games with Unity Netcode](https://unity.com/products/netcode)  
 
