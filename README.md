@@ -9,7 +9,7 @@
 https://github.com/VeriorPies/ParrelSync
 
 ### 구현
-[PlayerNetwork.cs](Assets/_MaJunseob/Scripts/PlayerNetwork.cs)
+[PlayerNetwork.cs](https://github.com/junseobma/netcode-for-gameobjects-0/blob/main/Assets/_MaJunseob/Scripts/PlayerNetwork.cs)
 
 ### 유튜브 참고 자료의 문제점 및 해결법
 NetworkAnimator 챕터에서 Client 캐릭터가 움직이지 않는다.  
