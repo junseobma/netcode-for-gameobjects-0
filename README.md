@@ -1,17 +1,18 @@
 # Netcode for GameObjects
 
 ### 참고 자료
-* [***COMPLETE Unity Multiplayer Tutorial (Netcode for Game Objects)***](https://www.youtube.com/watch?v=3yuBOB3VrCk)  
-* [Install Netcode for GameObjects](https://docs-multiplayer.unity3d.com/netcode/current/installation/)  
-* [Build multiplayer games with Unity Netcode](https://unity.com/products/netcode)  
+- [***COMPLETE Unity Multiplayer Tutorial (Netcode for Game Objects)***](https://www.youtube.com/watch?v=3yuBOB3VrCk)  
+- [Install Netcode for GameObjects](https://docs-multiplayer.unity3d.com/netcode/current/installation/)  
+- [Build multiplayer games with Unity Netcode](https://unity.com/products/netcode)  
 
 ### ParrelSync
+멀티 인스턴스 테스트 도구:  
 https://github.com/VeriorPies/ParrelSync
 
-### 구현
-[PlayerNetwork.cs](https://github.com/junseobma/netcode-for-gameobjects-0/blob/main/Assets/_MaJunseob/Scripts/PlayerNetwork.cs)
+### 구현 스크립트
+- [PlayerNetwork.cs](https://github.com/junseobma/netcode-for-gameobjects-0/blob/main/Assets/_MaJunseob/Scripts/PlayerNetwork.cs)
 
-### 유튜브 참고 자료의 문제점 및 해결법
+### 참고 자료의 문제점과 해결법
 NetworkAnimator 챕터에서 Client 캐릭터가 움직이지 않는다.  
 플레이어 캐릭터 프리팹의 PlayerInput 컴포넌트를 끄고 아래의 코드를 추가한다.
 ```C#
